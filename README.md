@@ -1,2 +1,1 @@
-# My Portfolio
-HwaiXin.github.io
+# HwaiXin.github.io
